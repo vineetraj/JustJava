@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">केवल जावा</string>
+    <string name="quantity">मात्रा:</string>
+    <string name="cream_value">फेटी हुई मलाई</string>
+    <string name="chocolate_value">चॉकलेट</string>
+    <string name="order_value">आदेश करे</string>
+    <string name="toppings_value">उपरी परत</string>
+    <string name="order_summary_chocolate">चॉकलेट जोड़ें ?</string>
+    <string name="thank_you">धन्यवाद!</string>
+    <string name="order_summary_whipped_cream">क्रीम जोड़ें?</string>
+    <string name="name_field">नाम</string>
+    <string name="order_summary_quantity">मात्रा:</string>
+    <string name="order_summary_price">कुल:</string>
+    <string name="order_summary_email_subject">केवल जावा</string>
+    <string name="initial_quantity_value">0</string>
+    <string name="order_summary_name">नाम:</string>
+</resources>

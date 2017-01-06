@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <!--<string name="user_name">Name</string>-->
+    <string name="name_field">Name</string>
+    <string name="toppings_value">Toppings</string>
+    <string name="cream_value">Whipped Cream</string>
+    <string name="chocolate_value">Chocolate Cream</string>
+    <string name="initial_quantity_value">0</string>
+    <string name="quantity">Quantity</string>
+    <string name="order_value">Order</string>
+
+    <!--order summary name-->
+    <!--
+  Name for the order summary. It will be shown in the format of "Name: Amy" where Amy is the
+  user's name. [CHAR LIMIT=NONE]
+-->
+    <string name="order_summary_name">Name:</string>
+
+    <!--
+      Quantity of coffee cups for the order summary. It will be shown in the format of
+      "Quantity: 2", where 2 is the number of cups ordered. [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_quantity">Quantity:</string>
+
+    <!--
+      Total price for the order summary. It will be shown in the format of
+      "Total: $10" where $10 is the price. [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_price">Total:</string>
+
+    <!--
+      Subject line for the order summary email. It will be in the format of
+      "Just Java order for Amy" where Amy is the user's name. [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_email_subject">Just Java</string>
+    <!--
+      Whipped cream topping for the order summary. It will be shown in the format of
+      "Add whipped cream? true" or "Add whipped cream? false". [CHAR LIMIT=NONE]
+    -->
+    <string name="order_summary_whipped_cream">Add Whipped Cream ?</string>
+    <!--
+     Chocolate topping for the order summary. It will be shown in the format of
+     "Add chocolate? true" or "Add chocolate? false". [CHAR LIMIT=NONE]
+   -->
+    <string name="order_summary_chocolate">Add Chocolates ?</string>
+    <!-- Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank You !</string>
+    <string name="user_name"></string>
+</resources>
